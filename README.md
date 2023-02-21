@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Leandro Balta Braga</h1>
 <h3 align="center">A simple lover of games, music, cars, snooker and technology.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dJHyYGjTqNeZalFk6B/giphy.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/media/58411f688803a46c05df94368a01fb11.gif" >
                                                                                                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrobalta&label=Profile%20views&color=0e75b6&style=flat" alt="leandrobalta" /> </p>
 

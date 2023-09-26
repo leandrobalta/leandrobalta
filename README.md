@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Leandro Balta Braga</h1>
-<h3 align="center">A simple lover of games, music, cars, snooker and technology.</h3>
+<h3 align="center">A simple lover of games, music, cars, sports and technology.</h3>
 
 <img align="right" alt="" width="400" src="https://gifdb.com/images/high/anime-pfp-hxh-killua-godspeed-a0x6use1mzpuudy4.gif" >
                                                                                                            

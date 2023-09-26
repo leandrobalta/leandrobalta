@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Leandro Balta Braga</h1>
 <h3 align="center">A simple lover of games, music, cars, snooker and technology.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/media/58411f688803a46c05df94368a01fb11.gif" >
+<img align="right" alt="" width="550" src="https://gifdb.com/images/high/anime-pfp-hxh-killua-godspeed-a0x6use1mzpuudy4.gif" >
                                                                                                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrobalta&label=Profile%20views&color=0e75b6&style=flat" alt="leandrobalta" /> </p>
 
@@ -25,6 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrobalta&show_icons=true&locale=en&layout=compact" alt="leandrobalta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrobalta&show_icons=true&locale=en" alt="leandrobalta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrobalta&" alt="leandrobalta" /></p>
